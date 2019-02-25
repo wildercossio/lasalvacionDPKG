@@ -1,0 +1,6 @@
+e588ef01e2706dc58b527639f8159cc4  usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/sonnet/sonnet_aspell.so
+7cb43f2310f9cfc5e22987f562e45616  usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/sonnet/sonnet_hspell.so
+5847ead3e5f7a29392c6f06fe322d7ae  usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/sonnet/sonnet_hunspell.so
+47bd1d3f91418c7e970f5c41d99f227a  usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/sonnet/sonnet_voikko.so
+d71b9ceeba559325bd1cc114a2f59192  usr/share/doc/sonnet-plugins/copyright
+33b9340c5e89a6927390e01b202b7816  usr/share/kf5/sonnet/trigrams.map

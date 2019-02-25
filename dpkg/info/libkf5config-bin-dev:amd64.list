@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/cmake
+/usr/lib/x86_64-linux-gnu/cmake/KF5Config
+/usr/lib/x86_64-linux-gnu/cmake/KF5Config/KF5ConfigCompilerTargets-debian.cmake
+/usr/lib/x86_64-linux-gnu/cmake/KF5Config/KF5ConfigCompilerTargets.cmake
+/usr/lib/x86_64-linux-gnu/libexec
+/usr/lib/x86_64-linux-gnu/libexec/kf5
+/usr/lib/x86_64-linux-gnu/libexec/kf5/kconfig_compiler_kf5
+/usr/share
+/usr/share/doc
+/usr/share/doc/libkf5config-bin-dev
+/usr/share/doc/libkf5config-bin-dev/changelog.Debian.gz
+/usr/share/doc/libkf5config-bin-dev/copyright

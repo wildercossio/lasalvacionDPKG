@@ -1,0 +1,17 @@
+75aaf0c50c59afdf1c7b0cfc9c877f85  usr/bin/gapplication
+27f1fc17ec7aaa20cd82b4afe95606e4  usr/bin/gdbus
+6a61c5d36b9c388fc6c905d29acd5689  usr/bin/gio
+972b5c7aad7aabbfe59ab621e5d7b5f9  usr/bin/gresource
+895c17b830c5ca9ff05d4041137af39e  usr/bin/gsettings
+c2b56ee2812496e991636840990adc08  usr/share/bash-completion/completions/gapplication
+3c6022ac0bf85f2f374358a52456e803  usr/share/bash-completion/completions/gdbus
+305f04df5006e28bbee350d1f9f7f973  usr/share/bash-completion/completions/gresource
+5b9e0439f45416a6f1f40416c15e474c  usr/share/bash-completion/completions/gsettings
+bd7ee2c25dd9724f4623cc971007e85e  usr/share/doc/libglib2.0-bin/copyright
+e3761d2de0dc7c6bf6370506553d308d  usr/share/man/man1/gapplication.1.gz
+265c553131a4f539291436d6b5878de9  usr/share/man/man1/gdbus.1.gz
+d785beaeb8a71e5767776a1d7aabdc1e  usr/share/man/man1/gio-querymodules.1.gz
+2ac5cba7336c8467dadd27b89dacb64e  usr/share/man/man1/gio.1.gz
+a4b32974e93513e8056bf28cce963220  usr/share/man/man1/glib-compile-schemas.1.gz
+69956c49e910b8158d28fd13a284ca67  usr/share/man/man1/gresource.1.gz
+f480eb993a8b1c4ee66eefb3bcf0785b  usr/share/man/man1/gsettings.1.gz

@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/qca-qt5
+/usr/lib/x86_64-linux-gnu/qca-qt5/crypto
+/usr/lib/x86_64-linux-gnu/qca-qt5/crypto/libqca-cyrus-sasl.so
+/usr/lib/x86_64-linux-gnu/qca-qt5/crypto/libqca-gnupg.so
+/usr/lib/x86_64-linux-gnu/qca-qt5/crypto/libqca-logger.so
+/usr/lib/x86_64-linux-gnu/qca-qt5/crypto/libqca-ossl.so
+/usr/lib/x86_64-linux-gnu/qca-qt5/crypto/libqca-softstore.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/libqca-qt5-2-plugins
+/usr/share/doc/libqca-qt5-2-plugins/copyright
+/usr/share/doc/libqca-qt5-2-plugins/changelog.Debian.gz

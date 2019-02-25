@@ -1,0 +1,15 @@
+3cc994e70ac99eb05bd28d607b525782  usr/bin/kpackagetool5
+4756a161859e2898da4abcb5ab4cbaca  usr/share/doc/kpackagetool5/copyright
+b882db93b7ec95f402e81b20a251fad4  usr/share/kservicetypes5/kpackage-generic.desktop
+ed9cdd4b6b83212fdc6317da9087b10a  usr/share/kservicetypes5/kpackage-genericqml.desktop
+63e7fb1906970fdd7dc586c45d97a636  usr/share/kservicetypes5/kpackage-packagestructure.desktop
+55f244a289552f805de3dcc73a49bd9a  usr/share/man/ca/man1/kpackagetool5.1.gz
+3c45a8d2ef1a1b099cf6605691fa1f22  usr/share/man/de/man1/kpackagetool5.1.gz
+ac4f2ecca90cd7cc77f78853e9f65f5c  usr/share/man/es/man1/kpackagetool5.1.gz
+a27daf3628066423108138f27a7cef45  usr/share/man/it/man1/kpackagetool5.1.gz
+cc02b0869b2e212de38bf499e3b512e2  usr/share/man/man1/kpackagetool5.1.gz
+b4e9063f01d8f08eefc7341fef95e267  usr/share/man/nl/man1/kpackagetool5.1.gz
+997a76c172cbf544d9fbfb5af878d804  usr/share/man/pt/man1/kpackagetool5.1.gz
+2718a11987bab6353e7989bd31636b8c  usr/share/man/pt_BR/man1/kpackagetool5.1.gz
+d9cba9b47136830160664ea01d9cb401  usr/share/man/sv/man1/kpackagetool5.1.gz
+e6999420996aa0e6ae8bf8ce920dd581  usr/share/man/uk/man1/kpackagetool5.1.gz

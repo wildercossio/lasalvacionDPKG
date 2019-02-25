@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/thunderbird-addons
+/usr/lib/thunderbird-addons/extensions
+/usr/lib/thunderbird-addons/extensions/langpack-es-AR@thunderbird.mozilla.org.xpi
+/usr/lib/thunderbird-addons/extensions/langpack-es-ES@thunderbird.mozilla.org.xpi
+/usr/share
+/usr/share/doc
+/usr/share/doc/thunderbird-locale-es
+/usr/share/doc/thunderbird-locale-es/copyright
+/usr/share/doc/thunderbird-locale-es/changelog.Debian.gz

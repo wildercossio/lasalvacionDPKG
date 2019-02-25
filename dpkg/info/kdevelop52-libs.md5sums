@@ -1,0 +1,14 @@
+2838825c144cd8e0977da46df6b1009f  usr/lib/x86_64-linux-gnu/libKDevPlatformDebugger.so.5.2.1
+a6d4b60964876c9d301d24b2924547c0  usr/lib/x86_64-linux-gnu/libKDevPlatformDocumentation.so.5.2.1
+f8fff5d5621b94c36dc77c7ff98035d5  usr/lib/x86_64-linux-gnu/libKDevPlatformInterfaces.so.5.2.1
+b21523c34809cfc94e54d8f71bc0bd5e  usr/lib/x86_64-linux-gnu/libKDevPlatformLanguage.so.5.2.1
+5b472950b86d1f1940b65381226133f4  usr/lib/x86_64-linux-gnu/libKDevPlatformOutputView.so.5.2.1
+4186bb2f0c83067cd3a89ec87260370f  usr/lib/x86_64-linux-gnu/libKDevPlatformProject.so.5.2.1
+190168ee318e741fd5f0a41f12353892  usr/lib/x86_64-linux-gnu/libKDevPlatformSerialization.so.5.2.1
+baf3293c51ebad0205756f08184de7be  usr/lib/x86_64-linux-gnu/libKDevPlatformShell.so.5.2.1
+73eda3b9b76e6102cc8d55dd9cdddbe5  usr/lib/x86_64-linux-gnu/libKDevPlatformSublime.so.5.2.1
+cf9ddecf77422252072d2ab0ddfbae1c  usr/lib/x86_64-linux-gnu/libKDevPlatformUtil.so.5.2.1
+6d3c95fc7710d8ce6fb7e53d99f1bb8c  usr/lib/x86_64-linux-gnu/libKDevPlatformVcs.so.5.2.1
+2b29d2a5e518872a5365f8f4754e4bf8  usr/share/doc/kdevelop52-libs/changelog.Debian.gz
+20448cdaa0657369063bbe1498df3318  usr/share/doc/kdevelop52-libs/copyright
+c59d7ed4bc7b623b7951a8bccc68eb42  usr/share/lintian/overrides/kdevelop52-libs

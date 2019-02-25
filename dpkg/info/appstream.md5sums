@@ -1,0 +1,6 @@
+def566740c27d7431dd32916abf60906  usr/bin/appstreamcli
+06158d074ae4cbc9af6ea8f0ccddecaf  usr/share/doc/appstream/copyright
+aea2e4edac9077e198a9bcf13eabbed5  usr/share/gettext/its/metainfo.its
+3914d21ad257f5020c751c23941de36f  usr/share/gettext/its/metainfo.loc
+eb53593c19ddc8d2b708923131c8433d  usr/share/man/man1/appstreamcli.1.gz
+b45ee76970f01e5ef62a6644b63e3a3f  usr/share/metainfo/org.freedesktop.appstream.cli.metainfo.xml

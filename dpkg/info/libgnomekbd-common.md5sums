@@ -1,0 +1,10 @@
+79eac4f37c174563e43ca72286a29d99  usr/share/GConf/gsettings/libgnomekbd.convert
+d41c275c8e7d8ef6c821a24688ad6989  usr/share/doc/libgnomekbd-common/changelog.Debian.gz
+599d24349549bb41446d49a7fce652fe  usr/share/doc/libgnomekbd-common/copyright
+ede9c0b038f12763d19744e847b77c7d  usr/share/glib-2.0/schemas/org.gnome.libgnomekbd.desktop.gschema.xml
+5b873da18c68a5b2e6ec7143b397add9  usr/share/glib-2.0/schemas/org.gnome.libgnomekbd.gschema.xml
+825677fbc75f56b5592ce9e18640fd18  usr/share/glib-2.0/schemas/org.gnome.libgnomekbd.keyboard.gschema.xml
+0f485ac7161582d24c32092b3498370f  usr/share/libgnomekbd/icons/kbdled-caps-lock.svg
+61f09873e27173a11403846d6fcff310  usr/share/libgnomekbd/icons/kbdled-num-lock.svg
+b05c057f8af30a6ccd26495ab7f581ce  usr/share/libgnomekbd/icons/kbdled-scroll-lock.svg
+28fa3b46cd6d4954522743d9e31369eb  usr/share/libgnomekbd/ui/show-layout.ui

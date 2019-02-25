@@ -1,0 +1,6 @@
+14fda075282cc8b76e51c6bcdcb7cf30  usr/lib/x86_64-linux-gnu/qca-qt5/crypto/libqca-cyrus-sasl.so
+0f8c5741c1919f74660f8fbb4b4e1ede  usr/lib/x86_64-linux-gnu/qca-qt5/crypto/libqca-gnupg.so
+faf188f1b397e001307d829a3c2e801c  usr/lib/x86_64-linux-gnu/qca-qt5/crypto/libqca-logger.so
+fb363ca4860796d5dc871b70ecab4cb4  usr/lib/x86_64-linux-gnu/qca-qt5/crypto/libqca-ossl.so
+59181fa5991bbaa4ed8b38c094e716c9  usr/lib/x86_64-linux-gnu/qca-qt5/crypto/libqca-softstore.so
+ead3e71c5c94218c19310b989ab8d248  usr/share/doc/libqca-qt5-2-plugins/copyright

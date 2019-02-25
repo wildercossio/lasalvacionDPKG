@@ -1,0 +1,7 @@
+610e562d65b16c3553c0c2db04b41e26  usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/parts/khtmladaptorpart.so
+812c11200dc82c168d4cf23c1f81a037  usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/parts/khtmlimagepart.so
+f09aea7837b2dee7e8c01be59d80e141  usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/parts/khtmlpart.so
+e400cad943ba92a604d2972ebfb8b6d3  usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/parts/kjavaappletviewer.so
+c12bbf0fc9dfb170258a11d82c93d829  usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/parts/kmultipart.so
+80dadd66ae07e2941560c2a958c92e6d  usr/share/doc/libkf5khtml-bin/copyright
+d9b44688e2811af0935e34ddd844b5a5  usr/share/lintian/overrides/libkf5khtml-bin

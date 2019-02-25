@@ -1,0 +1,14 @@
+libsuitesparseconfig.so.5 libsuitesparseconfig5 #MINVER#
+ SuiteSparse_calloc@Base 1:5.0.0
+ SuiteSparse_config@Base 1:5.0.0
+ SuiteSparse_divcomplex@Base 1:5.0.0
+ SuiteSparse_finish@Base 1:5.0.0
+ SuiteSparse_free@Base 1:5.0.0
+ SuiteSparse_hypot@Base 1:5.0.0
+ SuiteSparse_malloc@Base 1:5.0.0
+ SuiteSparse_realloc@Base 1:5.0.0
+ SuiteSparse_start@Base 1:5.0.0
+ SuiteSparse_tic@Base 1:5.0.0
+ SuiteSparse_time@Base 1:5.0.0
+ SuiteSparse_toc@Base 1:5.0.0
+ SuiteSparse_version@Base 1:5.0.0

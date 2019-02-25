@@ -1,0 +1,4 @@
+4d8f1f848c1516bb057f6928342f6271  usr/bin/kglobalaccel5
+cc3e43f128294c18d4c11706bf3e8f06  usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kglobalaccel5.platforms/KF5GlobalAccelPrivateXcb.so
+6df8be804afd037f22868691205c9756  usr/share/doc/libkf5globalaccel-bin/copyright
+3dc5b92e163f5012c94f630a89389c7f  usr/share/lintian/overrides/libkf5globalaccel-bin

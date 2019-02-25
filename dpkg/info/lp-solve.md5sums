@@ -1,0 +1,8 @@
+1bf4ff01d993395ef2928f0466f94996  usr/bin/lp_solve
+8c60e809d1492012593adb329b7a68f7  usr/lib/lp_solve/liblpsolve55.so
+4d92916b2978d8d15e5edb9a643659bb  usr/share/doc/lp-solve/NEWS.Debian.gz
+3c7672268a17302228b81276e5189f1a  usr/share/doc/lp-solve/README.Debian
+1358309a2747b4433bec1ec524814e1b  usr/share/doc/lp-solve/README.txt.gz
+dea1eac7bf1caf33d9542acdfade0dac  usr/share/doc/lp-solve/changelog.Debian.gz
+44b051ef846948cdc7cfa36d345ed5f2  usr/share/doc/lp-solve/copyright
+0139b3e9870445cf66a665af0c81bf57  usr/share/doc/lp-solve/examples/demo.c

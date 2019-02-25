@@ -1,0 +1,5 @@
+deb45af557330218ed2a067aac5db20e  usr/lib/x86_64-linux-gnu/libwinpr2.so.2.0.0
+4d3b7eb4ccf646bda8bd165d8922959d  usr/share/doc/libwinpr2-2/NOTICE
+980bc9386f5370709551f9d412205845  usr/share/doc/libwinpr2-2/changelog.Debian.gz
+5398c17e8f46c75eeb551e1408631c99  usr/share/doc/libwinpr2-2/copyright
+9d0b01287b30c499b306cb2a0a704787  usr/share/man/man7/wlog.7.gz

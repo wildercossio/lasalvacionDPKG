@@ -1,0 +1,16 @@
+a50230dd18adb720c7e94677eb6232e4  usr/include/KF5/KPackage/KPackage/Package
+45033dca47246de3776a3f469348da3b  usr/include/KF5/KPackage/KPackage/PackageLoader
+38d6a96c68009f8bfa15f6e8447b5629  usr/include/KF5/KPackage/KPackage/PackageStructure
+d6d717fb2cda0263ba7de93dd71dde0f  usr/include/KF5/KPackage/kpackage/package.h
+c1dc891aa07790857c9ad49383a219e7  usr/include/KF5/KPackage/kpackage/package_export.h
+a9736bca0c03f57344f49d3d81905eb0  usr/include/KF5/KPackage/kpackage/packageloader.h
+6a0cd60d632d810db321012614f6fbe2  usr/include/KF5/KPackage/kpackage/packagestructure.h
+627a020874f44ed7a996ca9d96177671  usr/include/KF5/KPackage/kpackage/version.h
+6f77ff2ffb808a64c3c5b7d349e693f8  usr/include/KF5/kpackage_version.h
+63fc7ed99151b049ce515fb17f3d75a9  usr/lib/x86_64-linux-gnu/cmake/KF5Package/KF5PackageConfig.cmake
+ff4c7aeb147130f7840baa85e43bb308  usr/lib/x86_64-linux-gnu/cmake/KF5Package/KF5PackageConfigVersion.cmake
+224dd6df0814b6695963ded5f852f99f  usr/lib/x86_64-linux-gnu/cmake/KF5Package/KF5PackageMacros.cmake
+e2718a2882b10ac093cfc0e6fde9efe2  usr/lib/x86_64-linux-gnu/cmake/KF5Package/KF5PackageTargets-debian.cmake
+3e8e795c14a8ba232f501a4d7f56b153  usr/lib/x86_64-linux-gnu/cmake/KF5Package/KF5PackageTargets.cmake
+8d62579c33501d2be86edc5d1820bd27  usr/lib/x86_64-linux-gnu/cmake/KF5Package/qrc.cmake
+4756a161859e2898da4abcb5ab4cbaca  usr/share/doc/libkf5package-dev/copyright

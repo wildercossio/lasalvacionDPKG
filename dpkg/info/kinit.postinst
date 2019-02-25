@@ -1,0 +1,24 @@
+#!/bin/sh
+
+set -e
+
+if [ "$1" = configure ]; then
+    # Try to setcap or fall back to setuid.
+    cap="CAP_SYS_RESOURCE=+ep"
+    path="/usr/lib/x86_64-linux-gnu/libexec/kf5/start_kdeinit"
+    if command -v setcap > /dev/null; then
+        if setcap $cap $path; then
+            echo "Setcap worked for $path!"
+        else
+            echo "Setcap failed for $path, falling back to setuid" >&2
+            chmod u+s $path
+        fi
+    else
+        echo "Setcap is not installed, falling back to setuid for $path" >&2
+        chmod u+s $path
+    fi
+fi
+
+
+
+exit 0

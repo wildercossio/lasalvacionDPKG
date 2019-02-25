@@ -1,0 +1,9 @@
+/.
+/boot
+/boot/vmlinuz-4.15.0-29-generic
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/linux-image-4.15.0-29-generic
+/usr/share/doc/linux-image-4.15.0-29-generic/changelog.Debian.gz
+/usr/share/doc/linux-image-4.15.0-29-generic/copyright

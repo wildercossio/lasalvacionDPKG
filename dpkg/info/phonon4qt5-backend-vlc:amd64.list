@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/qt5
+/usr/lib/x86_64-linux-gnu/qt5/plugins
+/usr/lib/x86_64-linux-gnu/qt5/plugins/phonon4qt5_backend
+/usr/lib/x86_64-linux-gnu/qt5/plugins/phonon4qt5_backend/phonon_vlc.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/phonon4qt5-backend-vlc
+/usr/share/doc/phonon4qt5-backend-vlc/changelog.Debian.gz
+/usr/share/doc/phonon4qt5-backend-vlc/copyright

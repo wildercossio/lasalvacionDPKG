@@ -1,0 +1,15 @@
+e58d4e9d94ec5cc76104a1db82bd1e7c  usr/lib/firefox-addons/extensions/langpack-es-AR@firefox.mozilla.org.xpi
+aa8718e9d38e7f70d962eaeb182bfcb3  usr/lib/firefox-addons/extensions/langpack-es-CL@firefox.mozilla.org.xpi
+d2851b2bb887b7425a60efc205dd7f66  usr/lib/firefox-addons/extensions/langpack-es-ES@firefox.mozilla.org.xpi
+a2e6f8f2fafc2546b09ac29b881994c5  usr/lib/firefox-addons/extensions/langpack-es-MX@firefox.mozilla.org.xpi
+5a37aa8cfcd590f4cfb9b8a7ee3478a8  usr/lib/firefox/distribution/searchplugins/locale/es-AR/amazondotcom.xml
+b28d450d203edc398cbccadf4f72a5c3  usr/lib/firefox/distribution/searchplugins/locale/es-AR/ddg.xml
+41f83c691d2ec4ab685f5de49d78ae30  usr/lib/firefox/distribution/searchplugins/locale/es-AR/google.xml
+b28d450d203edc398cbccadf4f72a5c3  usr/lib/firefox/distribution/searchplugins/locale/es-CL/ddg.xml
+41f83c691d2ec4ab685f5de49d78ae30  usr/lib/firefox/distribution/searchplugins/locale/es-CL/google.xml
+b28d450d203edc398cbccadf4f72a5c3  usr/lib/firefox/distribution/searchplugins/locale/es-ES/ddg.xml
+41f83c691d2ec4ab685f5de49d78ae30  usr/lib/firefox/distribution/searchplugins/locale/es-ES/google.xml
+b28d450d203edc398cbccadf4f72a5c3  usr/lib/firefox/distribution/searchplugins/locale/es-MX/ddg.xml
+41f83c691d2ec4ab685f5de49d78ae30  usr/lib/firefox/distribution/searchplugins/locale/es-MX/google.xml
+9af40ac25ccd16cfa1954f99681fcfaf  usr/share/doc/firefox-locale-es/changelog.Debian.gz
+42c48e3ef0ad6ce0b8173eb7488e2992  usr/share/doc/firefox-locale-es/copyright

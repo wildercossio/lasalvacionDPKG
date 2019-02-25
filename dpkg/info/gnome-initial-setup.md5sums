@@ -1,0 +1,15 @@
+970c50c629d1a545f73c529df6d6270d  usr/lib/gnome-initial-setup/gnome-initial-setup
+7a264c39d706dce9bf0a2b4b2c0cf76e  usr/lib/gnome-initial-setup/gnome-initial-setup-copy-worker
+78e8d6a321acf6619164b1b110d1b358  usr/lib/gnome-initial-setup/gnome-welcome-tour
+7406817895ee5b51abd277738f80fa1e  usr/lib/gnome-initial-setup/vendor.conf
+7056398bdaddbf14c8e19732732ae3d7  usr/share/doc/gnome-initial-setup/NEWS.gz
+61be148ffa3662be6720f310b9e104e7  usr/share/doc/gnome-initial-setup/README
+c06c66db639a8afe10e9ff49614fc9d6  usr/share/doc/gnome-initial-setup/changelog.Debian.gz
+84140a9eada880d712be1c1d99f85a8c  usr/share/doc/gnome-initial-setup/copyright
+9940b0c0b150547aef131b0dbf0e3329  usr/share/gdm/greeter/applications/gnome-initial-setup.desktop
+35c53a6742d3015108e90f572b66b162  usr/share/gdm/greeter/applications/setup-shell.desktop
+80691d5614a3aca1ae55e23d93c1588b  usr/share/gnome-session/sessions/gnome-initial-setup.session
+c77b639cd6527aefc2a08d65f7ebf417  usr/share/gnome-shell/modes/initial-setup.json
+52eeb3d3d885bdd261cbd5f70e0dd07e  usr/share/polkit-1/actions/com.ubuntu.welcome.policy
+096a569a089cae3e9f48cc6242f16c8f  usr/share/polkit-1/rules.d/20-gnome-initial-setup.rules
+f3ad45d77d606277b2ee5f2c5433efd7  var/lib/polkit-1/localauthority/10-vendor.d/gnome-initial-setup.pkla

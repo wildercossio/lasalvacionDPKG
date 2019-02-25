@@ -1,0 +1,16 @@
+b3028449a27b18acfa2bf1724f307d24  usr/lib/x86_64-linux-gnu/libwireshark.so.10.1.5
+ae2b1e9352f5e1ccab93deb0350a342c  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/docsis.so
+ff8d950703e013e924ed9625717b5f9a  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/ethercat.so
+f328fdc56f7a0275defc2f08a99422b1  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/gryphon.so
+eae426464b2920e2606670f55baea7ed  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/irda.so
+5d3ee2cc73dad93247adf7f218326908  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/m2m.so
+c1d84e58e6f77830e107cd40d639d30c  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/mate.so
+939551e224d40202a6b72a0c54425bc9  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/opcua.so
+4bc9af938027c5f441b116cb9cf2e737  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/profinet.so
+20336831858b23db7f20ce38bf459417  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/stats_tree.so
+aa9aea07a3b59707385055fd6912b326  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/transum.so
+391a7bf25a779309368025db957db293  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/unistim.so
+bf5867de2255e788261fbeaf21a2125b  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/wimax.so
+61d36c5fb64c2ecaad4bb2ccc0e9dfa0  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/wimaxasncp.so
+46b252aa592e1629a3a9674452a2538f  usr/lib/x86_64-linux-gnu/wireshark/plugins/2.4.5/wimaxmacphy.so
+f2a88aafc54e75b199670133a7f33657  usr/share/doc/libwireshark10/copyright

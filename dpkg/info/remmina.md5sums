@@ -1,0 +1,10 @@
+3d914da4a00e9fd911c0e32a5353f5fe  usr/bin/remmina
+c6a909c7e8303e326e2868475ccd5683  usr/share/applications/org.remmina.Remmina.desktop
+0e4672351abeff7a6214f54edeb124c1  usr/share/applications/remmina-file.desktop
+6f5a3ea94e8503ccef50303a770bde77  usr/share/doc/remmina/README.Debian
+f862663089cb8304769a31087a249c17  usr/share/doc/remmina/README.md.gz
+9f9d1fb417166b633f356e5c6f2b3b7e  usr/share/doc/remmina/changelog.Debian.gz
+5fc3bc21c9ef44f2cfbae2ae69536a51  usr/share/doc/remmina/copyright
+46c64981367e60c179734324564a22b1  usr/share/man/man1/remmina.1.gz
+59cca73f3bc1c3006754404a4f90ce84  usr/share/metainfo/org.remmina.Remmina.appdata.xml
+dd19c66e8612b2be90629d787a135dc8  usr/share/mime/packages/remmina-mime.xml

@@ -1,0 +1,17 @@
+e950b33f0d7db097588dca0975ed54a5  lib/systemd/system-sleep/unattended-upgrades
+0adf5e69ea98f4bdc67acd47cfe4d618  lib/systemd/system/unattended-upgrades.service
+9f4f8ad1321653bd0bf2ab5e05853e66  usr/bin/unattended-upgrade
+77a8a22f0dc411a87ce72d506dbf4384  usr/lib/python3/dist-packages/unattended_upgrades-0.1.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/unattended_upgrades-0.1.egg-info/dependency_links.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/unattended_upgrades-0.1.egg-info/top_level.txt
+442f60848d92ff78fd6bf223eb68ad2c  usr/share/apport/package-hooks/source_unattended-upgrades.py
+b104eac46e1c541d5ccc65dda08da91b  usr/share/doc/unattended-upgrades/NEWS.Debian.gz
+6e4a077d2b6912c7a638e3ccd9baec30  usr/share/doc/unattended-upgrades/README.md.gz
+271986efde361a99ea6bda44a422cdba  usr/share/doc/unattended-upgrades/changelog.gz
+c6a1f2bfe26cc968f8111025d2fed181  usr/share/doc/unattended-upgrades/copyright
+542d2d08502c0f6644e97c7e985111f8  usr/share/lintian/overrides/unattended-upgrades
+ab69acf7c11574729496f317af71f5ef  usr/share/man/man8/unattended-upgrade.8.gz
+1c261d6541420797f8b824d65ac5c197  usr/share/unattended-upgrades/20auto-upgrades
+a4bae82f58cf12cfbc370080bc1eb152  usr/share/unattended-upgrades/20auto-upgrades-disabled
+2e1c6e6038707b432e12ee335fcaa54a  usr/share/unattended-upgrades/50unattended-upgrades
+96143eb9d5541a92131dea42fc1fe6a9  usr/share/unattended-upgrades/unattended-upgrade-shutdown

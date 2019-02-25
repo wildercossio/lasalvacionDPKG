@@ -1,0 +1,5 @@
+afc98af3fd7ce1713f83498569bd547f  usr/lib/x86_64-linux-gnu/libssh-gcrypt.so.4.5.0
+25dbfa43fd5eb26aa8b8804e4efd34e1  usr/lib/x86_64-linux-gnu/libssh-gcrypt_threads.so.4.5.0
+7372c412b8c7f939009d1e315ea4283f  usr/share/doc/libssh-gcrypt-4/changelog.Debian.gz
+a5acdbf488e875fb8da81a90fc8815eb  usr/share/doc/libssh-gcrypt-4/copyright
+9a404f65c3b50a459dae28a74c42bf67  usr/share/lintian/overrides/libssh-gcrypt-4

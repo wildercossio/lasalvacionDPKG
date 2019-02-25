@@ -1,0 +1,15 @@
+1e337847785c7f8da57650f6b719de58  usr/lib/x86_64-linux-gnu/qt5/plugins/platforms/libqwayland-egl.so
+f3b07e43d91c02d944df71fb18e4d93a  usr/lib/x86_64-linux-gnu/qt5/plugins/platforms/libqwayland-generic.so
+4b04523440187289c747745ff4bdfb1f  usr/lib/x86_64-linux-gnu/qt5/plugins/platforms/libqwayland-xcomposite-egl.so
+deb0349e723a69ca74d579be3ca875eb  usr/lib/x86_64-linux-gnu/qt5/plugins/platforms/libqwayland-xcomposite-glx.so
+30abbbe115244455e6bb24301013d970  usr/lib/x86_64-linux-gnu/qt5/plugins/wayland-decoration-client/libbradient.so
+818dc2115a363adc3971ad3319314762  usr/lib/x86_64-linux-gnu/qt5/plugins/wayland-graphics-integration-client/libdrm-egl-server.so
+cfd9fdfb785ec6f3f57059dace055f24  usr/lib/x86_64-linux-gnu/qt5/plugins/wayland-graphics-integration-client/libqt-plugin-wayland-egl.so
+8a3cde21a5062c8d390fdd5ba479775a  usr/lib/x86_64-linux-gnu/qt5/plugins/wayland-graphics-integration-client/libxcomposite-egl.so
+eebe6792501270e31a0ed93b700d0b03  usr/lib/x86_64-linux-gnu/qt5/plugins/wayland-graphics-integration-client/libxcomposite-glx.so
+879bcf214b9448f1afb0620bb9b640e6  usr/lib/x86_64-linux-gnu/qt5/plugins/wayland-graphics-integration-server/libdrm-egl-server.so
+649c497168c1d4d42a4b4f3eb0f41239  usr/lib/x86_64-linux-gnu/qt5/plugins/wayland-graphics-integration-server/libwayland-egl.so
+1573f1f90aad2a0412ca885dac3c4a25  usr/lib/x86_64-linux-gnu/qt5/plugins/wayland-graphics-integration-server/libxcomposite-egl.so
+ec77d7b6572b0b925840d7ba672a88c8  usr/lib/x86_64-linux-gnu/qt5/plugins/wayland-graphics-integration-server/libxcomposite-glx.so
+70aaea049d8fcb8f7fdf70dc67c424e8  usr/lib/x86_64-linux-gnu/qt5/plugins/wayland-shell-integration/libivi-shell.so
+e539e6123b2448da5373c97d713faa5a  usr/share/doc/qtwayland5/copyright

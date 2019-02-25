@@ -1,0 +1,6 @@
+268ee5cea5f15c8a1db14dc82f142eb2  usr/lib/x86_64-linux-gnu/libpolkit-qt5-agent-1.so.1.112.0
+06fbe66ddef91d2963afb0801a32e6ec  usr/lib/x86_64-linux-gnu/libpolkit-qt5-core-1.so.1.112.0
+63c4a400b0105a352ce3b972350cafd4  usr/lib/x86_64-linux-gnu/libpolkit-qt5-gui-1.so.1.112.0
+abd2f43f49020469505a0f6245438718  usr/share/doc/libpolkit-qt5-1-1/changelog.Debian.gz
+fcd79b046a1b3df960475a31ac58546b  usr/share/doc/libpolkit-qt5-1-1/copyright
+ae598e731978580d2418f74431be58d4  usr/share/lintian/overrides/libpolkit-qt5-1-1

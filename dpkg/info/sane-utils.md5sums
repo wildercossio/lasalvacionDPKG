@@ -1,0 +1,14 @@
+bf65bef5b036aa89c1e7931bb6846151  lib/systemd/system/saned.socket
+1acafbe76c64e441e65f76f1d9c4bf01  lib/systemd/system/saned@.service
+b726f2769e8ea374b3de7833fa6cea12  usr/bin/gamma4scanimage
+e124da9f5689664301e7595206f0756e  usr/bin/sane-find-scanner
+dd165ee910dcbaae9bd68ed8eaf7e683  usr/bin/scanimage
+a2f6808e8fc1e604b5ad57a3b43f2526  usr/bin/umax_pp
+64b5b57c19721f6e7328ce983dde56c0  usr/sbin/saned
+c812f4a0057d175dc51b27f95f8004ae  usr/share/doc/sane-utils/README.Debian
+59cdfd5ba970f2a469f3f6698df6ab1f  usr/share/doc/sane-utils/copyright
+7c38717cd718246f3ed0c4c546c54a75  usr/share/man/man1/gamma4scanimage.1.gz
+c706479fc7d7f2cc7845177ad00b52eb  usr/share/man/man1/sane-find-scanner.1.gz
+ee8213dd3c5e703c8a49f3a7114dda02  usr/share/man/man1/scanimage.1.gz
+4a84976a2ce0c01481139dcc04ef07a8  usr/share/man/man5/sane-umax_pp.5.gz
+6746a58a8d469d1662968ea0ed8639da  usr/share/man/man8/saned.8.gz

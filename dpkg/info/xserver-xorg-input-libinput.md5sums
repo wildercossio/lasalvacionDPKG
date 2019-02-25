@@ -1,0 +1,5 @@
+5649a54ba4ae93d805554b240d2cbf30  usr/lib/xorg/modules/input/libinput_drv.so
+30fbd8d53c103ef29b7336ead05d9eaf  usr/share/X11/xorg.conf.d/40-libinput.conf
+a34ecc7b0d0665b508aec9936a493e74  usr/share/doc/xserver-xorg-input-libinput/changelog.Debian.gz
+9657f4b11a900ca95c7004a296b5749f  usr/share/doc/xserver-xorg-input-libinput/copyright
+572033ad7ea0153023fe0b76e5475804  usr/share/man/man4/libinput.4.gz

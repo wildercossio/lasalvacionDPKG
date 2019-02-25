@@ -1,0 +1,15 @@
+e391d6dde7964eb0de62f8945d57a11b  usr/bin/curl-config
+e63eae9fb7d9ec8eafebf0922f62242b  usr/include/x86_64-linux-gnu/curl/curl.h
+e3f12d3001d5b857651cbb0b54cf2a5a  usr/include/x86_64-linux-gnu/curl/curlver.h
+cd88d9776f47cd0717d1264d67984004  usr/include/x86_64-linux-gnu/curl/easy.h
+fe5571dc345881e9414cec12bd693717  usr/include/x86_64-linux-gnu/curl/mprintf.h
+caaab5480e0713faab755b89b91f2e87  usr/include/x86_64-linux-gnu/curl/multi.h
+187a7660e7cde796f02d47e60bf3b3a6  usr/include/x86_64-linux-gnu/curl/stdcheaders.h
+84cbb7209e99a61a04db73120f28342b  usr/include/x86_64-linux-gnu/curl/system.h
+594b66f280fc46ca1b8b0124ae3fda9a  usr/include/x86_64-linux-gnu/curl/typecheck-gcc.h
+a3daf92e605b9d0e9fe5aec2f2c5ab16  usr/lib/x86_64-linux-gnu/libcurl.a
+85bc32ea3d39d51b9465034c4f880710  usr/lib/x86_64-linux-gnu/libcurl.la
+145b41c8e5690ed0a51694270520beab  usr/lib/x86_64-linux-gnu/pkgconfig/libcurl.pc
+12c272333fb88c0fca8b84a2c4dfc399  usr/share/aclocal/libcurl.m4
+2e61937ad06d3e817d84468ca5d41261  usr/share/doc/libcurl4-openssl-dev/copyright
+bd7e5efe6c7efe0d8474639c63c5d64c  usr/share/man/man1/curl-config.1.gz

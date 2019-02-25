@@ -1,0 +1,8 @@
+6ce381ad9e18ab0f1debae762e4982fc  usr/lib/x86_64-linux-gnu/qt5/qml/org/kde/purpose/libpurposequickplugin.so
+2930801d2667637d8ea4dae673b14de3  usr/lib/x86_64-linux-gnu/qt5/qml/org/kde/purpose/phabricator/libphabricatorquickplugin.so
+6b6278ff571a2751d379c2f137da8b85  usr/lib/x86_64-linux-gnu/qt5/qml/org/kde/purpose/phabricator/qmldir
+4ae58f9f198e00935b8c3d128a79e34c  usr/lib/x86_64-linux-gnu/qt5/qml/org/kde/purpose/plugins.qmltypes
+d886597d6620371195384b3e0982bd2d  usr/lib/x86_64-linux-gnu/qt5/qml/org/kde/purpose/qmldir
+493e2ed695e1a25716687ea5aa9b82a7  usr/lib/x86_64-linux-gnu/qt5/qml/org/kde/purpose/reviewboard/librbpurposequickplugin.so
+c8742c502830626a580cc14c68e2bff8  usr/lib/x86_64-linux-gnu/qt5/qml/org/kde/purpose/reviewboard/qmldir
+5f28eefd3d8b5a2f397f01b8ece0e932  usr/share/doc/qml-module-org-kde-purpose/copyright
